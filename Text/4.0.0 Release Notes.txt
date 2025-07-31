@@ -1,0 +1,12 @@
+- Automations! Hound can now create reminders for you when you add certain logs. For example, set up an automation to get reminded to take Bella out 30 mins after you feed her!
+- Fresh Interface! A snazzy look built to shine on iPad, plus a slew of visual enhancements.
+- Per‑Reminder Notifications! Want to be notified for certain reminders but not others? Now you can choose which reminders send notifications and to who.
+- New Log Type! When your dog doesn't eat, now you can add a "Didn't Eat" log to track it!
+- Skippable Reminders! Easily skip a reminder when playtime runs long.
+- More Filter Options! Filter your logs by text or time range to fetch just what you need.
+- Haptics! Give your fingertips a break or feel each tap—flip haptics on or off in Settings.
+- Time Zones! Hound can now adjust to your desired time zone, allowing you to collaborate from anywhere in the world.
+- Duplicate-able Reminders! Copy a reminder and tweak the details in seconds.
+- Release Notes! This page keeps you up to date on every new trick.
+- Reliable Timing! We tuned up our calculations so reminders pop up right on cue.
+- New App Icon! Spot Hound faster with our crisp new look.
